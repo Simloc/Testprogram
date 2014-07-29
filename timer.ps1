@@ -1,6 +1,6 @@
-# run with: powershell -ExecutionPolicy RemoteSigned -file sleep.ps1
-# run with: powershell -file sleep.ps1
-# run with: powershell .\sleep.ps1
+# run with: powershell -ExecutionPolicy RemoteSigned -file timer.ps1
+# run with: powershell -file timer.ps1
+# run with: powershell .\timer.ps1
 
 $ErrorActionPreference = "Stop"
 
